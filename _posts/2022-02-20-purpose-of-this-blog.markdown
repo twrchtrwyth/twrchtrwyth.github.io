@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Purpose of This Blog"
+date:   2022-02-20 22:10:00 +0000
+categories: jekyll update
+---
+I started this blog to document our travels after finishing work in February 2022. My aim is to write posts on a ThinkPad X60s from 2006 using the *Jekyll* framework, then push these to GitHub whenever I find an internet connection. This will then (hopefully) generate a website from the files.
+
+I've decided on this approach--that is, using a cheap, old but hardy laptop and hosting the blog on GitHub--primarily so that, if the laptop is lost, stolen or damaged irreperably, then everything I've written will still be safely stored online.
+
+I'm not sure what I'm going to do in terms of adding photographs: I'm planning on using a film camera when I travel, so might just have to add in the photos later once the rolls are developed.
