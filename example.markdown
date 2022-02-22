@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Ignore this."
 date:   2022-02-20 18:50:19 +0000
 categories: jekyll update
 ---
 
-This post was originally saved as `2022-02-20-welcome-to-jekyll.markdown`.
+This post was originally saved as `2022-02-20-welcome-to-jekyll.markdown`. I have kept it in the folder as an example. Please ignore this until I can figure out how to properly hide it!
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
