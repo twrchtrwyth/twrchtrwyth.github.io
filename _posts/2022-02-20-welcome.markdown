@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Purpose of This Blog"
+title:  "Welcome"
 date:   2022-02-20 22:10:00 +0000
 categories: jekyll update
 ---
