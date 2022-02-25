@@ -4,8 +4,9 @@ title:  "Welcome"
 date:   2022-02-20 22:10:00 +0000
 categories: jekyll update
 ---
-I started this blog to document our travels after finishing work in February 2022. My aim is to write posts on a ThinkPad X60s from 2006 using the *Jekyll* framework, then push these to GitHub whenever I find an internet connection. This will then (hopefully) generate a website from the files.
 
-I've decided on this approach--that is, using a cheap, old but hardy laptop and hosting the blog on GitHub--primarily so that, if the laptop is lost, stolen or damaged irreperably, then everything I've written will still be safely stored online.
+I started this blog in February 2022, to document our travels after finishing work earlier in the month. My aim is to write posts on a ThinkPad X60s using the *Jekyll* framework, then push these to GitHub whenever I find an internet connection. Thanks to *GitHub Pages*, a website will then be generated from the files.
 
-I'm not sure what I'm going to do in terms of adding photographs: I'm planning on using a film camera when I travel, so might just have to add in the photos later once the rolls are developed.
+I've decided on this approach primarily so that, if the laptop is lost, stolen or irreparably damaged, then everything I've written will remain safely stored online. The X60s is small and pretty light (~1kg), so shouldn't add too much bulk to my luggage. It's also ancient and therefore dirt cheap, so it won't matter too much if I lose it.
+
+I'm planning on using a film camera (my Olympus OM-1n) when I travel, so any photographs will be added later once the rolls are developed.
