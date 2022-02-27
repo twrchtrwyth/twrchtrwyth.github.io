@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title:  "About"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I started this blog in February 2022, to document our travels after finishing work earlier in the month. My aim is to write posts on a ThinkPad X60s using the *Jekyll* framework, then push these to GitHub whenever I find an internet connection. Thanks to *GitHub Pages*, a website will then be generated from the files. I've never done this before, so many things will undoubtedly go wrong.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I've decided on this approach primarily so that, if the laptop is lost, stolen or irreparably damaged, then everything I've written will remain safely stored online. The X60s is small and pretty light (~1kg), so shouldn't add too much bulk to my luggage. It's also ancient and therefore dirt cheap, so it won't matter too much if I lose it.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm planning on using a film camera (my Olympus OM-1n) when I travel, so any photographs will be added later once the rolls are developed.

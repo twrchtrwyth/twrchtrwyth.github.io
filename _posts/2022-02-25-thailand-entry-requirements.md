@@ -28,4 +28,8 @@ No visa requirement as UK citizens exempt.
 
 ### SHA Extra Plus
 
-What a bloody mess this is! There seems to be no standardised use of the correct logo or term. The *SHA Extra Plus* filter on the SHA's own website returns hotels with a logo stating `Plus+`, despite the *SHA Plus* filter returning a bunch of hotels with the exact same logo! Only a single hotel has actually included the word "Extra" in the logo. What a bizarre way to go about things.
+What a bloody mess this is! 
+
+In order to comply with requirements, the first night of our stay will need to be in a designated *SHA Extra Plus* hotel---that is, one that meets certain standards set by Thailand's *Safety and Health Administration* regarding rates of staff vaccination, and which has a contract with a hospital partner who provide testing services and treatment if required.
+
+There seems to be no standardised use of the correct logo or term. The SHA have a logo which includes the word "Extra" on their homepage. The *SHA Extra Plus* filter on the SHA's own website returns hotels with a logo stating `Plus+`, despite the *SHA Plus* filter returning a bunch of hotels with the exact same logo! Only a single hotel has actually included the word "Extra" in the logo. What a bizarre way to go about things.
