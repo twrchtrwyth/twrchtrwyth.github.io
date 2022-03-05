@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Ignore this."
+title:  "Example post."
 date:   2022-02-20 18:50:19 +0000
 categories: jekyll update
 ---
 
-This post was originally saved as `2022-02-20-welcome-to-jekyll.markdown`. I have kept it in the `_drafts` folder as an example.
+*This post was originally saved as `2022-02-20-welcome-to-jekyll.markdown`. It's an automatically generated example post that's created when initialising a Jekyll project. I have moved it to the `_drafts` folder as an example.*
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
