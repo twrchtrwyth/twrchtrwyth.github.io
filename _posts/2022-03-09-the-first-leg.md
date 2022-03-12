@@ -8,7 +8,7 @@ author: Wil
 
 ## Edinburgh to Helsinki
 
-Finally, 21 months after we were originally due to fly to Bangkok, the first leg of the journey is underway! Writing this in the air: currently flying over the beautiful snowy plateaus of Norway, complimentary blueberry juice (thanks Finnair!) in hand. I have started reading the Epic of Gilgamesh (or *He Who Saw The Deep*)---or rather, I almost have, as I'm still ploughing through the introduction. It's genuinely longer than the Epic itself. Perhaps the author should have carved it in cuneiform on clay tablets, too: might have encouraged a bit more brevity.
+Finally, 21 months after we were originally due to fly to Bangkok, the first leg of the journey is underway! Writing this in the air: currently flying over the beautiful snowy plateaus of Norway, complimentary blueberry juice (thanks Finnair!) in hand. I have started reading the Epic of Gilgamesh---or rather, I almost have, as I'm still ploughing through the introduction. Quite a lot of background on Mesopotamian religion and society, then suddenly a digression about a beast-man who couples with a prostitute ceaslessly for a week. Excellent.
 
 Apparently someone decided to replace the tap in the aircraft toilet with a water cannon, so it will be a soggy hour or so until we land in Helsinki. We will have a roughly 5-hour layover there: once we arrive, in the time-honoured fashion of self-experimentation, I am planning on determining whether there is an LD50 of cardamom. (Assuming the cinnamon doesn't kill me first.)
 
