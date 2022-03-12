@@ -14,7 +14,7 @@ With an almost indescribable sense of relief to be out of quarantine (and to esc
 
 We were both hungry, and very much looking forward to to trying the local food. We found *Kopitiam by Wilai*, a delightful little restaurant on the central street of Phuket Old Town. There were scrolls of Chinese calligraphy on the wall, along with some old photographs of Phuket. There were several Phuket-style dishes on the menu, which displayed a Chinese culinary influence as far as I could tell.
 
-Ellen had Massaman chicken with jasmine rice, and pad pal meang (local greens stir fried with egg) as a side. Singha to drink. I had Phuket Style Grilled Pork (pork with Thai and Chinese herbs), with chicken wonton as a side. Chang to drink. It was all glorious
+Ellen had Massaman chicken with jasmine rice, and pad pal meang (local greens stir fried with egg) as a side. Singha to drink. I had Phuket Style Grilled Pork (pork with Thai and Chinese herbs), with chicken wonton as a side. Chang to drink. It was all glorious.
 
 We realised after eating that we didn't have enough cash with us to pay, so I went searching for an ATM (leaving Ellen as collateral). I found two, but failed dismally at getting cash out at both. I tried asking at a 7-Eleven, but I think the cashier thought I was trying to hand her my card (or worse) and she just gestured towards the door. I obligingly exited. It was worth it for this amusing advert, though:
 
