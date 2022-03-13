@@ -14,3 +14,16 @@ had an iced latte in the terminal, Ellen had a lemon tea which was essentially c
 loads of people were having a big party on the front of the boat: not a single one of them could do the Macarena. I was very concerned for the well-being of a balding man's pate.
 before docking at Ton Sai on Ko Phi Phi Don (the larger of the two islands), the ferry first did a loop of Ko Phi Phi Leh. It was very pretty, amazing limestone cliffs.
 insane damage prices: get ready to pay £12.50 if you break a clothes hanger, or £50 for the kettle!
+walk
+viewpoint
+lolly
+sunset---no beer
+muezzin
+crickets.wav
+bats- HUGE
+bar in place where alcohol not permitted playing easy skanking by Bob Marley... hmm
+food at annas
+fire spinners at slinky's 
+huge thunderstorm behind us to the north
+counterbalance limbo
+sea shaggin
