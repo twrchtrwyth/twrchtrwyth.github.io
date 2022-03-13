@@ -21,14 +21,14 @@
 title: Teithio
 email: wilifanevans at gmail
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog to document our travels.
+  A blog to document our travels (at last).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: n/a
 github_username:  twrchtrwyth
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
