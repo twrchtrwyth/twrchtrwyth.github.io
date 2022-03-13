@@ -6,6 +6,8 @@ categories: travel thailand phuket
 author: Wil
 ---
 
+Written at Uphill Cottage on Ko Phi Phi.
+
 ## Thursday 10th March
 
 With an almost indescribable sense of relief to be out of quarantine (and to escape the karaoke at the market directly outside our window), we set out to Phuket's Old Town. The architecture there is wonderful, supposedly a product of Portuguese colonial influence on the Chinese merchants who settled here in the 19th century.
@@ -56,4 +58,4 @@ We went for a final walk around the old town---noticed how grand the building wa
 
 ![Phuket Grand Building](/assets/phuket-8.JPG)
 
-We had food in One Chun--Ellen had Phuket pork stew (black peppery and delicious), I had phuket-style fried fish in soy sauce. We shared stir fried morning glory, and both had steamed rice. On the way back to the hostel we heard a very amusing cover of Britney Spears's *Toxic*, and we got some passion fruit ice lollies from the local convenience store. Wary of going to bed before the night market outside our window closed at 10:30pm lest we be exposed to more karaoke whilst trying to sleep, we instead had a beer at the market and turned in not long after... But not before popping down to the convenience store again to buy some antigen testing kits, as nobody could tell us whether or not one will be supplied to us on Day 5 (despite the *Test & Go* scheme stating that one is provided free of charge).
+We had food in One Chun---Ellen had Phuket pork stew (black peppery and delicious), I had phuket-style fried fish in soy sauce. We shared stir fried morning glory, and both had steamed rice. On the way back to the hostel we heard a very amusing cover of Britney Spears's *Toxic*, and we got some passion fruit ice lollies from the local convenience store. Wary of going to bed before the night market outside our window closed at 10:30pm lest we be exposed to more karaoke whilst trying to sleep, we instead had a beer at the market and turned in not long after... But not before popping down to the convenience store again to buy some antigen testing kits, as nobody could tell us whether or not one will be supplied to us on Day 5 (despite the *Test & Go* scheme stating that one is provided free of charge). The joys of modern travel.
