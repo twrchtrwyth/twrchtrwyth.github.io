@@ -23,7 +23,7 @@ lolly
 sunset---no beer please muslim
 muezzin
 crickets.wav
-bats HUGE
+gigantic bats, flying foxes?
 bar in place where alcohol not permitted playing easy skanking by Bob Marley... hmm
 food at annas
 ao loh dalum
@@ -44,3 +44,5 @@ cats
 free dombar singha
 tropical rain
 one noodle chicken and veg pad Thai and changs
+back to the hotel room to escape the rain---with beer
+read guidebook

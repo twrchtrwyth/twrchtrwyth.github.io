@@ -14,7 +14,7 @@ With an almost indescribable sense of relief to be out of quarantine (and to esc
 
 ![Phuket Old Town](/assets/phuket-1.JPG)
 
-We were both hungry, and very much looking forward to to trying the local food. We found *Kopitiam by Wilai*, a delightful little restaurant on the central street of Phuket Old Town. There were scrolls of Chinese calligraphy on the wall, along with some old photographs of Phuket. There were several Phuket-style dishes on the menu, which displayed a Chinese culinary influence as far as I could tell.
+We were both hungry, and very much looking forward to to trying the local food. We found *Kopitiam by Wilai*, a delightful little restaurant on the central street of Phuket Old Town. There were scrolls of Chinese calligraphy on the wall, along with some old photographs of Phuket. The menu carried several Phuket-style dishes, which displayed a Chinese culinary influence as far as I could tell.
 
 Ellen had Massaman chicken with jasmine rice, and pad pal meang (local greens stir fried with egg) as a side. Singha to drink. I had Phuket Style Grilled Pork (pork with Thai and Chinese herbs), with chicken wonton as a side. Chang to drink. It was all glorious.
 
@@ -22,7 +22,7 @@ We realised after eating that we didn't have enough cash with us to pay, so I we
 
 ![Big Bite Pinky Milky](/assets/phuket-2.JPG)
 
-Back to the hostel for an early night, as we were both still pretty shattered from the trip.
+We then realised we could just pay by card anyway. Back to the hostel for an early night, as we were both still pretty shattered from the trip.
 
 ## Friday 11th March
 
@@ -30,15 +30,13 @@ After a very long sleep indeed, we headed out at around 11am for breakfast. We w
 
 ![Cold Brew](/assets/phuket-3.jpg)
 
-And Ellen had some distressingly blue tea (a mix of black tea and peppermint):
+And Ellen had some distressingly blue tea (a mix of black tea,  peppermint and "butterfly pea"):
 
 ![Blue Tea](/assets/phuket-4.JPG)
 
-We went on a more successful hunt for some cash after my disastrous attempts the night before. Being creatures of habit, we returned to *Kopitiam by Wilai* but for lunch this time. I had a Phuket-style noodle soup with pork and seafood, and a *delicious* passion fruit iced tea. Ellen had a pad Thai. We also shared some kaya toast.
+We went on a more successful hunt for some cash after my disastrous attempts the night before. We *tried* to find somewhere else, but being creatures of habit, we returned to *Kopitiam by Wilai* for lunch. I had a Phuket-style noodle soup with pork and seafood, and a *delicious* passion fruit iced tea. Ellen had a pad Thai. We also shared some kaya toast---sweet milk bread with very sweet coconut jam.
 
 ![Ellen and passion fruit tea](/assets/phuket-5.JPG)
-
-### Hostel
 
 We then returned to the hostel for a cold beer. The hostel had a book titled *Siamese Bestiary*: I read a section on King Cobras, and for some reason have particularly remembered the section on their especially savage bite. Supposedly they don't bite and withdraw like other snakes: rather, they chew the wound in order to continue injecting further venom. I was delighted to learn that they are endemic to the whole of South East Asia.
 
@@ -52,9 +50,7 @@ Despite the casual tone struck above, the whole experience was in fact fraught w
 
 ![Coconuts](/assets/phuket-7.JPG)
 
-### Evening
-
-We went for a final walk around the old town---noticed how grand the building was from where we'd got cash earlier in the day, which we completely overlooked at the time---before grabbing yet another Singha at the Old Phuket Coffee House.
+That evening, we went for a final walk around the old town---noticed how grand the building was from where we'd got cash earlier in the day, which we completely overlooked at the time---before grabbing yet another Singha at the Old Phuket Coffee House.
 
 ![Phuket Grand Building](/assets/phuket-8.JPG)
 
