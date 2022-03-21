@@ -10,8 +10,6 @@ author: Wil
 
 The friendliest cat so far. Liked affectionately biting body parts, which unfortunately included one of Wil's nipples. Looked after (and named) by Darren, the genial Scotsman who owned Tonmai Suites where we stayed in Baan Si Raya, Ko Lanta's Old Town.
 
-![Miss Tickles]
-
 ## Porchy
 
 Lanta New Coconut Bungalows
