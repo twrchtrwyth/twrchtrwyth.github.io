@@ -12,4 +12,4 @@ I'm using an app called *Working Copy* to push changes to GitHub. Then, thanks t
 
 I've decided on this approach primarily so that, if I lose my phone, then everything I've written will remain safely stored online. It might also circumvent some of the problems with firewalls that Máire and Roger said they experienced when using Wordpress in Vietnam, should we make it that far.
 
-As far as adding photographs goes, I'm planning on using a film camera (an Olympus OM-1n) when I travel, so these will be added later once the rolls are developed. I'll try to leave placeholders to remind myself.
+As far as adding photographs goes, I'm planning on using a film camera (an Olympus OM-1n) when I travel, so these will be added later once the rolls are developed. I'll try to leave placeholders to remind myself. Until then, I'll just use the camera on my phone.
