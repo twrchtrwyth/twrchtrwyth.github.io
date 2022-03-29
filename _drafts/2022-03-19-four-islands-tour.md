@@ -7,5 +7,5 @@ author: Wil
 
 ## Saturday 19th March
 many houses along the old town road like grampa's garage
-4 islands (own post) them being dropped on Ko Ngai
+picked up by a songthaew, a rickety, open-backed bus (of sorts). A 
 FLAVIO
