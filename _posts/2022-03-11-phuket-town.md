@@ -2,7 +2,7 @@
 layout: post
 title: "Phuket Town"
 date: 2022-03-12 13:40
-categories: travel thailand phuket
+categories: travel thailand
 author: Wil
 ---
 

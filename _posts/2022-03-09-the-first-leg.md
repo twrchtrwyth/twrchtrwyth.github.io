@@ -2,7 +2,7 @@
 layout: post
 title: "The First Leg"
 date: 2022-03-09 10:50
-categories: travel flight
+categories: travel thailand
 author: Wil
 ---
 

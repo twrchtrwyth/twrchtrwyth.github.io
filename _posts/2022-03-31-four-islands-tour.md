@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Four Islands Tour"
-categories: travel, thailand, fourislands
+categories: travel thailand
 author: Wil
 ---
 
