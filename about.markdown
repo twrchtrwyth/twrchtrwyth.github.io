@@ -1,10 +1,8 @@
 ---
 layout: page
-title:"About"
+title: "About"
 permalink: /about/
 ---
-
-# About This Blog
 
 I started this blog in February 2022, to document our travels after finishing work earlier in the month. My initial aim was to write posts on a ThinkPad X60s using the *Jekyll* framework, then push any changes to GitHub whenever I found an internet connection. Instead of carting around upwards of a kilo of computing equipment---and battling with the foibles of a 15 year old laptop---I have decided to use the same approach with my phone (a 1st-generation iPhone SE).
 
